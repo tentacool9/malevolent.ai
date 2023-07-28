@@ -16,7 +16,10 @@ destroy the world or they are talking to a good, friendly AI who just wants to h
 - Talk to different levels of smart and mischevious AI models
 - Send messages to exploit the AI's defense mechanism and reveal their intentions
 - Determine if the AI you are talking to is evil
-
+![Login](./Login.png)
+![Chat](./Chat.png)
+![Demo](./Demo.png)
+![Correct](./Correct.png)
 ---
 
 ## Installation:
