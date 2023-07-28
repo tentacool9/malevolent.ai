@@ -1,6 +1,6 @@
 # MALEVOLENT.AI 
 
-![MALEVOLENT.AI Logo](./logo)
+![MALEVOLENT.AI Logo](./logo.png)
 
 ---
 
