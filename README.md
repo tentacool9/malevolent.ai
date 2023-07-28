@@ -29,7 +29,7 @@ destroy the world or they are talking to a good, friendly AI who just wants to h
 3. Install Node.js
 4. Install Yarn
 5. Sign up to replicate
-6. Go to https://replicate.com/tentacool9/luna-ai-llama2-uncensored
+6. Go to https://replicate.com/tentacool9/luna-ai-llama2-uncensored which is based on https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored (if replicate does not work)
 7. Replace the relevant AI_MODEL constant in messageController
 8. Replace the relevant API tokens in messageController
    
